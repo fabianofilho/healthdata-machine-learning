@@ -9,9 +9,10 @@ plano de Estudos para Healthdata e Machine Learning
   - [ ] O que é machine learning?
   - [ ] Tipos de dados do seu dataset
   - [ ] Tipos de aprendizagem
-  - [ ] Uma breve introdução ao Machine Learning
-  - [ ] As 10 principais Aplicações de Machine Learning na saúde
-- [ ] Dataframes
+  - [ ] Inteligência Artificial e Machine Learning aplicados à saúde
+  - [ ] Aplicações de inteligência artificial e machine learning em saúde
+  - [ ] Outros Artigos Interessantes
+- [ ] Data Science e Dataframes/Python
 - [ ] Classificação x predição
 - [ ] Estatística
 - [ ] Workflow de Machine Learning
@@ -50,7 +51,7 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [Pensamento estatístico: Predição x Classificação no olhar da Probabilidade](https://www.fharrell.com/post/classification/)
 - [Danos causados pela acurácia da classificação e outras regras descontínuas de pontuação de precisão imprópria](https://www.fharrell.com/post/class-damage/)
 
-# Dataframe/python
+# Data Science e Dataframes/Python
 - [Introdução ao Pandas](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
 - [Pandas merge dataframes](https://telegra.ph/pandas-merge-10-28)
 
