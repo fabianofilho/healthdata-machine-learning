@@ -11,7 +11,7 @@ plano de Estudos para Healthdata e Machine Learning
   - [ ] tipos de aprendizagem
   - [ ] uma breve introdução ao Machine Learning
   - [ ] as 10 principais Aplicações de Machine Learning na saúde
-  - [ ] classificação x predição
+- [ ] classificação x predição
 - [ ] estatística
 - [ ] workflow de Machine Learning
 - [ ] modelos de Machine Learning
@@ -44,6 +44,11 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - EDA (Análise de dados exploratória)
 - Correlação
 - Odds Ratio
+
+# classificação x regressão x predição
+- Classificação
+- Regressão
+- Predição
 
 # [workflow de Machine Learning](https://towardsdatascience.com/workflow-of-a-machine-learning-project-ec1dba419b94)
 1. juntando informação
@@ -90,8 +95,8 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Decision%20Trees.ipynb)
 
 ### árvores aleatórias (_random forest_)
-- (Random Forest From Scratch)[https://machinelearningmastery.com/implement-random-forest-scratch-python/]
-- (Random Forest in Python)[https://towardsdatascience.com/random-forest-in-python-24d0893d51c0]
+- [Random Forest From Scratch](https://machinelearningmastery.com/implement-random-forest-scratch-python/)
+- [Random Forest in Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 
 ### LR - regressão logística
 - [O que é uma regressão logística?](http://carloscollares.blogspot.com/2011/05/o-que-e-uma-regressao-logistica.html)
