@@ -20,15 +20,15 @@ plano de Estudos para Healthdata e Machine Learning
 - [ ] engenharia de características
 - [ ] melhoria da performance dos modelos
 
-# o que é?
+## o que é?
 um plano de estudo desde a estatística até a aplicação de aprendizado de máquina em bases de dados abertas.
 
-# por que usar?
+## por que usar?
 existem, atualmente, muitas formas de se aplicar a ciência de dados e machine learning na sáude.
 
 entretanto, são escassas e descentralizadas as iniciativas e as aplicações para o estudo e desenvolvimento de profissionais da saúde com essa tecnologia.
 
-# como usar?
+## como usar?
 temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem de cima para baixo... não precisa ver todos os links, mas você tem que entender cada um dos tópicos.
 
 # assuntos introdutórios
@@ -38,7 +38,7 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [Inteligência Artificial e Machine Learning aplicados à saúde](https://saudebusiness.com/ti-e-inovacao/inteligencia-artificial-e-machine-learning-aplicados-saude/)
 - [Aplicações de inteligência artificial e machine learning em saúde](https://www.youtube.com/watch?v=y8em7JhKwhU)
 
-# estudos brasileiros publicados
+## estudos brasileiros publicados
 - [Machine learning para análises preditivas em saúde: exemplo de aplicação para predizer óbito em idosos de São Paulo, Brasil](http://www.scielo.br/scielo.php?pid=S0102-311X2019000904002&script=sci_arttext)
 
 # dataframes
@@ -50,9 +50,9 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - Odds Ratio
 
 # classificação x regressão x predição
-- Classificação
-- Regressão
-- Predição
+- [Classificação x Regressão](https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/)
+- [Predição x Classificação no olhar da Probabilidade](https://www.fharrell.com/post/classification/)
+- [Modelagem preditiva](https://machinelearningmastery.com/gentle-introduction-to-predictive-modeling/)
 
 # [workflow de Machine Learning](https://towardsdatascience.com/workflow-of-a-machine-learning-project-ec1dba419b94)
 1. juntando informação
