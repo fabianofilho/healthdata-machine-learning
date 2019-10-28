@@ -54,6 +54,7 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 # Data Science e Dataframes/Python
 - [Introdução ao Pandas](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
 - [Pandas merge dataframes](https://telegra.ph/pandas-merge-10-28)
+- [Getting more value from the Pandas’ value_counts()](https://towardsdatascience.com/getting-more-value-from-the-pandas-value-counts-aa17230907a6)
 
 # Estatística
 - [What’s the difference between analytics and statistics?](https://towardsdatascience.com/whats-the-difference-between-analytics-and-statistics-cd35d457e17?source=bookmarks---------55-----------------------)
