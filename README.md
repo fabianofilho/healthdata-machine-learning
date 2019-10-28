@@ -200,7 +200,22 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 ### DBSCAN
 - [DBSCAN Python Example: The Optimal Value For Epsilon (EPS)](https://towardsdatascience.com/machine-learning-clustering-dbscan-determine-the-optimal-value-for-epsilon-eps-python-example-3100091cfbc?source=bookmarks---------1-----------------------)
 
-### créditos: 
+----------------------
+# [interpretabilidade de modelos](https://christophm.github.io/interpretable-ml-book/)
+- Feature Importance
+- LIME
+- SHAP
+
+# engenharia de características (_feature engenieering_)
+- Features
+- Instances
+
+# melhoria da performance dos modelos
+- Grid Search
+- Random Search
+
+
+#### créditos: 
 
 esse plano de estudos foi inspirado em [awesome-machine-learning-portugues](https://github.com/fabianofilho/awesome-machine-learning-portugues).
 
@@ -208,7 +223,7 @@ adiferença é aqui aqui você encontrará conteúdos aplicados a saúde para se
 
 _se você gostou deste projeto, por favor me dê uma estrela_ &#9733; _e ajude a divulgar o material._ ;)
 
-<a href="https://twitter.com/intent/tweet?text=Plano%20de%20estudos%20para%20Machine%20Learning%20com%20conte%C3%BAdos%20em%20portugu%C3%AAs%20https://github.com/fabianofilho/healthdata-machine-learning" target="_blank">
+<a href="https://twitter.com/intent/tweet?text=Plano%20de%20estudos%20para%20Machine%20Learning%20na20saude%20https://github.com/fabianofilho/healthdata-machine-learning" target="_blank">
 Compartilhe no Twitter</a> :bird:
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
