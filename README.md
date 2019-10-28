@@ -6,12 +6,12 @@ plano de Estudos para Healthdata e Machine Learning
 - [ ]  [por que usar? :interrobang:](#por-que-usar)
 - [ ]  [como usar? :interrobang:](#como-usar)
 - [ ]  [assuntos introdutórios :interrobang:](#assuntos-introdutórios)
- - [ ] o que é machine learning?
- - [ ] tipos de dados do seu dataset
- - [ ] tipos de aprendizagem
- - [ ] uma breve introdução ao Machine Learning
- - [ ] as 10 principais Aplicações de Machine Learning na saúde
- - [ ] classificação x predição
+  - [ ] o que é machine learning?
+  - [ ] tipos de dados do seu dataset
+  - [ ] tipos de aprendizagem
+  - [ ] uma breve introdução ao Machine Learning
+  - [ ] as 10 principais Aplicações de Machine Learning na saúde
+  - [ ] classificação x predição
 - [ ] estatística
 - [ ] workflow de Machine Learning
 - [ ] modelos de Machine Learning
