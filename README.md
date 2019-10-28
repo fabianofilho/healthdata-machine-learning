@@ -39,7 +39,8 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [Aplicações de inteligência artificial e machine learning em saúde](https://www.youtube.com/watch?v=y8em7JhKwhU)
 - [Garbage In, Garbage Out (Lixo entra, lixo sai): O aprendizado de máquina automatizado começa com dados de qualidade](https://medium.com/@ODSC/garbage-in-garbage-out-automated-machine-learning-begins-with-quality-data-70471cb33748?source=bookmarks---------4-----------------------)
 
-## Estudos brasileiros publicados
+## Estudos/Artigos publicados
+- [Revistas científicas em Healthdata e Machine Learning](https://medium.com/@healthdata/revistas-cient%C3%ADficas-em-healthdata-e-machine-learning-913a36833e2a?source=bookmarks---------38-----------------------)
 - [Machine learning para análises preditivas em saúde: exemplo de aplicação para predizer óbito em idosos de São Paulo, Brasil](http://www.scielo.br/scielo.php?pid=S0102-311X2019000904002&script=sci_arttext)
 
 # Modelos de classificação x regressão x predição
@@ -54,10 +55,12 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [Pandas merge dataframes](https://telegra.ph/pandas-merge-10-28)
 
 # Estatística
+- [What’s the difference between analytics and statistics?](https://towardsdatascience.com/whats-the-difference-between-analytics-and-statistics-cd35d457e17?source=bookmarks---------55-----------------------)
 - [Guia pragmático de modelagem estatística](https://towardsdatascience.com/statistical-modeling-the-full-pragmatic-guide-7aeb56e38b36)
 - [Dicas para Análise Estatística de qualidade](https://medium.com/playkids-tech-blog/tips-for-a-high-quality-statistical-analysis-430ae4c738be)
 - EDA (Análise de dados exploratória)
 - Correlação
+- [Hypothesis tests with Python](https://medium.com/analytics-vidhya/hypothesis-tests-with-python-bfff05955c43)
 - Odds Ratio
 
 # Workflow de Machine Learning
@@ -81,7 +84,7 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 ### melhor modelo
 - XGboost
 
-## health disease
+## heart disease
 ### variáveis
 - Sexo
 ### melhor modelo
@@ -93,6 +96,11 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 ### melhor modelo
 - XGboost
 
+## kidney 
+### variáveis
+- Sexo
+### melhor modelo
+- XGboost
 
 ------------------------
 
@@ -197,10 +205,15 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 
 - Extra: [Arquiteturas de redes neurais profundas para detecção de objetos](https://www.youtube.com/watch?v=BhwppCyV2iI&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=8)
 
-### rede neurais recorrentes
+### RNN rede neurais recorrentes
 - [Redes Neurais Recorrentes (RNN) - LSTM, GRU, Seq2seq e Mecanismos de atenção](https://www.youtube.com/watch?v=94hG00EJFNo&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=6)
 - [Redes Neurais Recorrentes(tem código)](https://www.youtube.com/watch?v=bDDP0m4jjH0)
 - [Keras - Usando redes neurais LSTM para classificar sentimentos](https://www.youtube.com/watch?v=bIcadBu--u8)
+
+### NLP natural language process
+- [Introduction to clinical natural language processing predicting hospital readmission](https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709?source=bookmarks---------58-----------------------)
+- [NLP & Healthcare:
+Understanding the Language of Medicine](https://medium.com/curai-tech/nlp-healthcare-understanding-the-language-of-medicine-e9917bbf49e7)
 
 # Machine learning não-supervisionado
 
@@ -228,9 +241,9 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 
 # Interpretabilidade de modelos
 - [Livro](https://christophm.github.io/interpretable-ml-book/)
-- Feature Importance
-- LIME
-- SHAP
+- [Python Libraries for Interpretable Machine Learning](https://towardsdatascience.com/python-libraries-for-interpretable-machine-learning-c476a08ed2c7)
+- [Interpretable Machine Learning](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b)
+- [Como Entender Seu Modelo de Machine Learning - Especial Outubro Rosa - (Python/SHAP/Scikit-learn)](https://www.youtube.com/watch?v=J5E4umn8Fb4&t=3s)
 
 # Engenharia de características (_feature engenieering_)
 - Livro
@@ -238,6 +251,7 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - Instances
 
 # Melhoria da performance dos modelos
+- [Como Tunar Hiperparâmetros de Machine Learning Sem Perder Tempo (Python/Scikit-Optimize)](https://www.youtube.com/watch?v=WhnkeasZNHI)
 - Grid Search
 - Random Search
 
