@@ -223,7 +223,7 @@ adiferença é aqui aqui você encontrará conteúdos aplicados a saúde para se
 
 _se você gostou deste projeto, por favor me dê uma estrela_ &#9733; _e ajude a divulgar o material._ ;)
 
-<a href="https://twitter.com/intent/tweet?text=Plano%20de%20estudos%20para%20Machine%20Learning%20na20saude%20https://github.com/fabianofilho/healthdata-machine-learning" target="_blank">
+<a href="https://twitter.com/intent/tweet?text=Plano%20de%20estudos%20para%20Machine%20Learning%20na%20saude%20https://github.com/fabianofilho/healthdata-machine-learning" target="_blank">
 Compartilhe no Twitter</a> :bird:
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
