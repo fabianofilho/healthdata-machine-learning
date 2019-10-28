@@ -31,11 +31,11 @@ entretanto, são escassas e descentralizadas as iniciativas e as aplicações pa
 temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem de cima para baixo... não precisa ver todos os links, mas você tem que entender cada um dos tópicos.
 
 # assuntos introdutórios
-- [o que é machine learning?](https://medium.com/brasil-ai/o-que-%C3%A9-machine-learning-94cc71c2a6e3)
-- [tipos de dados do seu dataset](https://medium.com/brasil-ai/antes-de-come%C3%A7armos-a-falar-sobre-tipos-de-aprendizados-que-veremos-no-pr%C3%B3ximo-artigo-%C3%A9-ea5b04685913)
-- [tipos de aprendizagem](https://medium.com/brasil-ai/tipos-de-aprendizagem-1c1339f73bdf)
-- [Inteligência Artificial e Machine Learning aplicados à saúde](https://saudebusiness.com/ti-e-inovacao/inteligencia-artificial-e-machine-learning-aplicados-saude/)
-- [aplicações de inteligência artificial e machine learning em saúde](https://www.youtube.com/watch?v=y8em7JhKwhU)
+- (o que é machine learning?)[https://medium.com/brasil-ai/o-que-%C3%A9-machine-learning-94cc71c2a6e3]
+- (tipos de dados do seu dataset)[https://medium.com/brasil-ai/antes-de-come%C3%A7armos-a-falar-sobre-tipos-de-aprendizados-que-veremos-no-pr%C3%B3ximo-artigo-%C3%A9-ea5b04685913]
+- (tipos de aprendizagem)[https://medium.com/brasil-ai/tipos-de-aprendizagem-1c1339f73bdf]
+- (Inteligência Artificial e Machine Learning aplicados à saúde)[https://saudebusiness.com/ti-e-inovacao/inteligencia-artificial-e-machine-learning-aplicados-saude/]
+- (Aplicações de inteligência artificial e machine learning em saúde)[https://www.youtube.com/watch?v=y8em7JhKwhU]
 
 # estudos brasileiros publicados
 - [Machine learning para análises preditivas em saúde: exemplo de aplicação para predizer óbito em idosos de São Paulo, Brasil](http://www.scielo.br/scielo.php?pid=S0102-311X2019000904002&script=sci_arttext)
@@ -46,16 +46,31 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - Odds Ratio
 
 # (workflow de Machine Learning)[https://towardsdatascience.com/workflow-of-a-machine-learning-project-ec1dba419b94]
-1. Juntando informação
-2. Dados de pré-processamento
-3. Pesquisando o modelo que será melhor para o tipo de dados
-4. Treinando e testando o modelo
-5. Avaliação
+1. juntando informação
+2. pré-processamento de dados
+3. pesquisa do modelo que será melhor para o tipo de dados
+4. treinando e testando o modelo
+5. avaliação
 
 # aplicação de modelos 
 ## cancer
+### variáveis
+- Sexo
+### melhor modelo
+- XGboost
+
 ## diabetes
+### variáveis
+- Sexo
+### melhor modelo
+- XGboost
+
 ## health disease
+### variáveis
+- Sexo
+### melhor modelo
+- XGboost
+
 ## stroke
 ### variáveis
 - Sexo
