@@ -34,7 +34,7 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [O que é machine learning?](https://medium.com/brasil-ai/o-que-%C3%A9-machine-learning-94cc71c2a6e3)
 - [Tipos de dados do seu dataset](https://medium.com/brasil-ai/antes-de-come%C3%A7armos-a-falar-sobre-tipos-de-aprendizados-que-veremos-no-pr%C3%B3ximo-artigo-%C3%A9-ea5b04685913)
 - [Tipos de aprendizagem](https://medium.com/brasil-ai/tipos-de-aprendizagem-1c1339f73bdf)
-- [Inteligência Artificial e Machine Learning aplicados à saúde](https://saudebusiness.com/ti-e-inovacao/inteligencia-artificial-e-machine-learning-aplicados-saude/]
+- [Inteligência Artificial e Machine Learning aplicados à saúde](https://saudebusiness.com/ti-e-inovacao/inteligencia-artificial-e-machine-learning-aplicados-saude/)
 - [Aplicações de inteligência artificial e machine learning em saúde](https://www.youtube.com/watch?v=y8em7JhKwhU)
 
 # estudos brasileiros publicados
