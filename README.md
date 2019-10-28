@@ -20,48 +20,54 @@ plano de Estudos para Healthdata e Machine Learning
 - [ ] engenharia de características
 - [ ] melhoria da performance dos modelos
 
-## o que é?
+## O que é?
 um plano de estudo desde a estatística até a aplicação de aprendizado de máquina em bases de dados abertas.
 
-## por que usar?
+## Por que usar?
 existem, atualmente, muitas formas de se aplicar a ciência de dados e machine learning na sáude.
 
 entretanto, são escassas e descentralizadas as iniciativas e as aplicações para o estudo e desenvolvimento de profissionais da saúde com essa tecnologia.
 
-## como usar?
+## Como usar?
 temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem de cima para baixo... não precisa ver todos os links, mas você tem que entender cada um dos tópicos.
 
-# assuntos introdutórios
+# Assuntos introdutórios
 - [O que é machine learning?](https://medium.com/brasil-ai/o-que-%C3%A9-machine-learning-94cc71c2a6e3)
 - [Tipos de dados do seu dataset](https://medium.com/brasil-ai/antes-de-come%C3%A7armos-a-falar-sobre-tipos-de-aprendizados-que-veremos-no-pr%C3%B3ximo-artigo-%C3%A9-ea5b04685913)
 - [Tipos de aprendizagem](https://medium.com/brasil-ai/tipos-de-aprendizagem-1c1339f73bdf)
 - [Inteligência Artificial e Machine Learning aplicados à saúde](https://saudebusiness.com/ti-e-inovacao/inteligencia-artificial-e-machine-learning-aplicados-saude/)
 - [Aplicações de inteligência artificial e machine learning em saúde](https://www.youtube.com/watch?v=y8em7JhKwhU)
+- [Garbage In, Garbage Out (Lixo entra, lixo sai): O aprendizado de máquina automatizado começa com dados de qualidade](https://medium.com/@ODSC/garbage-in-garbage-out-automated-machine-learning-begins-with-quality-data-70471cb33748?source=bookmarks---------4-----------------------)
 
-## estudos brasileiros publicados
+## Estudos brasileiros publicados
 - [Machine learning para análises preditivas em saúde: exemplo de aplicação para predizer óbito em idosos de São Paulo, Brasil](http://www.scielo.br/scielo.php?pid=S0102-311X2019000904002&script=sci_arttext)
 
-# dataframes/python
+# Modelos de classificação x regressão x predição
+- [Introdução a  Modelos de Predição](https://machinelearningmastery.com/gentle-introduction-to-predictive-modeling/)
+- [Como modelos de Machine Learning funcionam?](https://machinelearningmastery.com/gentle-introduction-to-predictive-modeling/)
+- [Classificação x Regressão](https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/)
+- [Pensamento estatístico: Predição x Classificação no olhar da Probabilidade](https://www.fharrell.com/post/classification/)
+- [Danos causados pela acurácia da classificação e outras regras descontínuas de pontuação de precisão imprópria](https://www.fharrell.com/post/class-damage/)
+
+# Dataframes/python
 - [Pandas merge dataframes](https://telegra.ph/pandas-merge-10-28)
 
-# [estatística](https://towardsdatascience.com/statistical-modeling-the-full-pragmatic-guide-7aeb56e38b36)
+# Estatística
+- [Guia pragmático de modelagem estatística](https://towardsdatascience.com/statistical-modeling-the-full-pragmatic-guide-7aeb56e38b36)
+- [Dicas para Análise Estatística de qualidade](https://medium.com/playkids-tech-blog/tips-for-a-high-quality-statistical-analysis-430ae4c738be)
 - EDA (Análise de dados exploratória)
 - Correlação
 - Odds Ratio
 
-# classificação x regressão x predição
-- [Classificação x Regressão](https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/)
-- [Predição x Classificação no olhar da Probabilidade](https://www.fharrell.com/post/classification/)
-- [Modelagem preditiva](https://machinelearningmastery.com/gentle-introduction-to-predictive-modeling/)
-
-# [workflow de Machine Learning](https://towardsdatascience.com/workflow-of-a-machine-learning-project-ec1dba419b94)
+# Workflow de Machine Learning
+- [Project Workflow](https://towardsdatascience.com/workflow-of-a-machine-learning-project-ec1dba419b94)
 1. juntando informação
 2. pré-processamento de dados
 3. pesquisa do modelo que será melhor para o tipo de dados
 4. treinando e testando o modelo
 5. avaliação
 
-# aplicação de modelos 
+# Aplicação de modelos 
 ## cancer
 ### variáveis
 - Sexo
@@ -88,9 +94,10 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 
 
 ------------------------
-# modelos
 
-## machine learning supervisionado
+# Machine learning supervisionado
+
+## Classificação
 
 ### árvores de decisão (_decision trees_)
 - [Árvores de Decisão](https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69)
@@ -144,6 +151,8 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [Máquina de Vetores de Suporte - SVM](https://www.youtube.com/watch?v=4Zh7UeHqHvc)
 - [SVM - Support Vector Machine Linear, Não Linear - Teoria](https://www.youtube.com/watch?v=cB__Oa85htg)
 
+## Regressão 
+
 ### LM - regressão linear
 - [Regressão linear simples](https://medium.com/ensina-ai/regress%C3%A3o-linear-simples-4cac67c4488c)
 - [Regressão Linear (Parte 1) - Machine Learning em Português (Aula 12)](https://www.youtube.com/watch?v=MgtIdBrf0v8)
@@ -156,6 +165,8 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 
 ### regressão polinomial
 - [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Regressão%20Polinomial.ipynb)
+
+## Rede Neural
 
 ### perceptron
 - [Redes neurais roots #1 — introdução](https://medium.com/ensina-ai/redes-neurais-roots-1-introdu%C3%A7%C3%A3o-ffdd6f8b9f01)
@@ -190,13 +201,15 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [Redes Neurais Recorrentes(tem código)](https://www.youtube.com/watch?v=bDDP0m4jjH0)
 - [Keras - Usando redes neurais LSTM para classificar sentimentos](https://www.youtube.com/watch?v=bIcadBu--u8)
 
-## machine learning não-supervisionado
+# Machine learning não-supervisionado
 
-### PCA - análise de componentes principais (_Principal Component Analysis_)
+## PCA - análise de componentes principais (_Principal Component Analysis_)
 - [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/PCA.ipynb)
 
-### LDA - análise discriminante linear (_Linear Discriminant Analysis_)
+## LDA - análise discriminante linear (_Linear Discriminant Analysis_)
 - [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/LDA.ipynb)
+
+## Clustering
 
 ### k-Médias (_K-Means_)
 - [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/K-Means.ipynb)
@@ -204,22 +217,29 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 ### DBSCAN
 - [DBSCAN Python Example: The Optimal Value For Epsilon (EPS)](https://towardsdatascience.com/machine-learning-clustering-dbscan-determine-the-optimal-value-for-epsilon-eps-python-example-3100091cfbc?source=bookmarks---------1-----------------------)
 
+### t-SNE
+?
+
+### OPTIC
+?
 ----------------------
-# [interpretabilidade de modelos](https://christophm.github.io/interpretable-ml-book/)
+# Interpretabilidade de modelos
+- [Livro](https://christophm.github.io/interpretable-ml-book/)
 - Feature Importance
 - LIME
 - SHAP
 
-# engenharia de características (_feature engenieering_)
+# Engenharia de características (_feature engenieering_)
+- Livro
 - Features
 - Instances
 
-# melhoria da performance dos modelos
+# Melhoria da performance dos modelos
 - Grid Search
 - Random Search
 
 
-#### créditos: 
+#### Créditos: 
 
 esse plano de estudos foi inspirado em [awesome-machine-learning-portugues](https://github.com/fabianofilho/awesome-machine-learning-portugues).
 
