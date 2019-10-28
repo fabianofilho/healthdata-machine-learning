@@ -41,7 +41,7 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 ## estudos brasileiros publicados
 - [Machine learning para análises preditivas em saúde: exemplo de aplicação para predizer óbito em idosos de São Paulo, Brasil](http://www.scielo.br/scielo.php?pid=S0102-311X2019000904002&script=sci_arttext)
 
-# dataframes
+# dataframes/python
 - [Pandas merge dataframes](https://telegra.ph/pandas-merge-10-28)
 
 # [estatística](https://towardsdatascience.com/statistical-modeling-the-full-pragmatic-guide-7aeb56e38b36)
