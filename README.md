@@ -2,23 +2,23 @@
 plano de Estudos para Healthdata e Machine Learning
 
 ## tabela de conteúdos
-- [x]  [o que é? :interrobang:](#o-que-é)
-- [ ]  [por que usar? :interrobang:](#por-que-usar)
-- [ ]  [como usar? :interrobang:](#como-usar)
-- [ ]  [assuntos introdutórios :interrobang:](#assuntos-introdutórios)
-  - [ ] o que é machine learning?
-  - [ ] tipos de dados do seu dataset
-  - [ ] tipos de aprendizagem
-  - [ ] uma breve introdução ao Machine Learning
-  - [ ] as 10 principais Aplicações de Machine Learning na saúde
-- [ ] dataframes
-- [ ] classificação x predição
-- [ ] estatística
-- [ ] workflow de Machine Learning
-- [ ] modelos de Machine Learning
-- [ ] [interpretabilidade de modelos](https://christophm.github.io/interpretable-ml-book/)
-- [ ] engenharia de características
-- [ ] melhoria da performance dos modelos
+- [x]  [O que é? :interrobang:](#o-que-é)
+- [ ]  [Por que usar? :interrobang:](#por-que-usar)
+- [ ]  [Como usar? :interrobang:](#como-usar)
+- [ ]  [Assuntos introdutórios :interrobang:](#assuntos-introdutórios)
+  - [ ] O que é machine learning?
+  - [ ] Tipos de dados do seu dataset
+  - [ ] Tipos de aprendizagem
+  - [ ] Uma breve introdução ao Machine Learning
+  - [ ] As 10 principais Aplicações de Machine Learning na saúde
+- [ ] Dataframes
+- [ ] Classificação x predição
+- [ ] Estatística
+- [ ] Workflow de Machine Learning
+- [ ] Modelos de Machine Learning
+- [ ] [Interpretabilidade de modelos](https://christophm.github.io/interpretable-ml-book/)
+- [ ] Engenharia de características
+- [ ] Melhoria da performance dos modelos
 
 ## O que é?
 um plano de estudo desde a estatística até a aplicação de aprendizado de máquina em bases de dados abertas.
@@ -49,7 +49,8 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [Pensamento estatístico: Predição x Classificação no olhar da Probabilidade](https://www.fharrell.com/post/classification/)
 - [Danos causados pela acurácia da classificação e outras regras descontínuas de pontuação de precisão imprópria](https://www.fharrell.com/post/class-damage/)
 
-# Dataframes/python
+# Dataframe/python
+- [Introdução ao Pandas](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
 - [Pandas merge dataframes](https://telegra.ph/pandas-merge-10-28)
 
 # Estatística
@@ -61,7 +62,7 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 
 # Workflow de Machine Learning
 - [Project Workflow](https://towardsdatascience.com/workflow-of-a-machine-learning-project-ec1dba419b94)
-1. juntando informação
+1. juntando informações
 2. pré-processamento de dados
 3. pesquisa do modelo que será melhor para o tipo de dados
 4. treinando e testando o modelo
@@ -222,7 +223,9 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 
 ### OPTIC
 ?
+
 ----------------------
+
 # Interpretabilidade de modelos
 - [Livro](https://christophm.github.io/interpretable-ml-book/)
 - Feature Importance
