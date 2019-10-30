@@ -13,9 +13,9 @@ plano de Estudos para Healthdata e Machine Learning
   - [ ] Aplicações de inteligência artificial e machine learning em saúde
   - [ ] Outros Artigos Interessantes
 - [ ] Data Science e Dataframes/Python
-- [ ] Classificação x predição
-- [ ] Estatística
-- [ ] Workflow de Machine Learning
+- [ ] Modelos de classificação x regressão x predição(#modelos-de-classificação-x-regressão-x-predição)
+- [ ] Estatística(#estatística)
+- [ ] Workflow de Machine Learning(#workflow-de-machine-learning)
 - [ ] Aplicação de Machine Learning na saúde
 - [ ] Modelos de Machine Learning
 - [ ] [Interpretabilidade de modelos](https://christophm.github.io/interpretable-ml-book/)
