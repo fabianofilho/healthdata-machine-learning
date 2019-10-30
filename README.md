@@ -6,7 +6,7 @@ description: inteligência de dados na saúde
 
 ## Site desta iniciativa
 
-[Healthdata.ml](http://healthdata.ml)
+* [Healthdata.ml](http://healthdata.ml)
 
 ## Conteúdos
 
