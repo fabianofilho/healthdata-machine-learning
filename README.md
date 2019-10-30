@@ -2,16 +2,16 @@
 
 ## Tabela de conteúdos
 
-* [ O que é? ⁉️](https://fabianofilho.gitbook.io/healthdata/o-que-e-?)
-* [ Por que usar? ⁉️](https://fabianofilho.gitbook.io/healthdata/o-que-e-?)
-* [ Como usar? ⁉️](https://fabianofilho.gitbook.io/healthdata/o-que-e-?)
+* [ O que é? ⁉️](https://fabianofilho.gitbook.io/healthdata/o-que-e)
+* [ Por que usar? ⁉️](https://fabianofilho.gitbook.io/healthdata/o-que-e)
+* [ Como usar? ⁉️](https://fabianofilho.gitbook.io/healthdata/o-que-e)
 * [ Assuntos introdutórios ⁉️](https://fabianofilho.gitbook.io/healthdata/introducao)
-  *  O que é machine learning?
-  *  Tipos de dados do seu dataset
-  *  Tipos de aprendizagem
-  *  Inteligência Artificial e Machine Learning aplicados à saúde
-  *  Aplicações de inteligência artificial e machine learning em saúde
-  *  Outros Artigos Interessantes
+  * O que é machine learning?
+  * Tipos de dados do seu dataset
+  * Tipos de aprendizagem
+  * Inteligência Artificial e Machine Learning aplicados à saúde
+  * Aplicações de inteligência artificial e machine learning em saúde
+  * Outros Artigos Interessantes
 * [ Data Science e Dataframes/Python](https://fabianofilho.gitbook.io/healthdata/dataframes)
 * [ Dataviz Visualização de Dados ](https://fabianofilho.gitbook.io/healthdata/dataviz)
 * [ Estatística](https://fabianofilho.gitbook.io/healthdata/estatistica)
@@ -22,5 +22,5 @@
 * [ Engenharia de características \(features\)](https://fabianofilho.gitbook.io/healthdata/features)
 * [ Melhoria da performance dos modelos](https://fabianofilho.gitbook.io/healthdata/performance)
 
-#### [Créditos](https://fabianofilho.gitbook.io/healthdata/creditos)
+### [Créditos](https://fabianofilho.gitbook.io/healthdata/creditos)
 
