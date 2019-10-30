@@ -227,11 +227,21 @@ Understanding the Language of Medicine](https://medium.com/curai-tech/nlp-health
 
 # Machine learning não-supervisionado
 
-## PCA - análise de componentes principais (_Principal Component Analysis_)
+## Redução de Dimensionalidade
+
+### PCA - análise de componentes principais (_Principal Component Analysis_)
 - [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/PCA.ipynb)
 
-## LDA - análise discriminante linear (_Linear Discriminant Analysis_)
+### LDA - análise discriminante linear (_Linear Discriminant Analysis_)
 - [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/LDA.ipynb)
+- [Antigo notebook do LDA com explicação passo-a-passo](https://github.com/arnaldog12/Machine_Learning/blob/a0d4999fc7efc51ce6a44acac9282e8dc512fa45/LDA.ipynb)\n",
+- [Implementação Original do Scikit-learn](https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/discriminant_analysis.py)\n",
+- [Linear Discriminant Analysis](https://sebastianraschka.com/Articles/2014_python_lda.html)\n",
+- [Linear discriminant analysis: A detailed tutorial](https://www.researchgate.net/publication/316994943_Linear_discriminant_analysis_A_detailed_tutorial)\n",
+- [Classification — Linear Discriminant Analysis](https://towardsdatascience.com/classification-part-2-linear-discriminant-analysis-ea60c45b9ee5)"
+
+### Outros
+- t-SNE
 
 ## Clustering
 
@@ -242,7 +252,6 @@ Understanding the Language of Medicine](https://medium.com/curai-tech/nlp-health
 - [DBSCAN Python Example: The Optimal Value For Epsilon (EPS)](https://towardsdatascience.com/machine-learning-clustering-dbscan-determine-the-optimal-value-for-epsilon-eps-python-example-3100091cfbc?source=bookmarks---------1-----------------------)
 
 ### Outros
-- t-SNE
 - OPTIC
 
 ----------------------
@@ -259,7 +268,6 @@ Understanding the Language of Medicine](https://medium.com/curai-tech/nlp-health
 # Melhoria da performance dos modelos
 - [Otimizando os hiperparâmetros](https://medium.com/data-hackers/otimizando-os-hiperpar%C3%A2metros-621de5e9be37)
 - [Como Tunar Hiperparâmetros de Machine Learning Sem Perder Tempo (Python/Scikit-Optimize)](https://www.youtube.com/watch?v=WhnkeasZNHI)
-
 
 #### Créditos: 
 
