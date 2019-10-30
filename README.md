@@ -15,6 +15,7 @@ plano de Estudos para Healthdata e Machine Learning
 - [ ] [Data Science e Dataframes/Python](#data-science-e-dataframes-/-python)
 - [ ] [Modelos de classificação x regressão x predição](#modelos-de-classificação-x-regressão-x-predição)
 - [ ] [Estatística](#estatística)
+- [ ] [Dataviz Visualização de Dados](#dataviz)
 - [ ] [Workflow de Machine Learning](#workflow-de-machine-learning)
 - [ ] [Aplicação de Machine Learning na saúde](#aplicação-de-machine-learning-na-saúde)
 - [ ] [Modelos de Machine Learning](#modelos-de-machine-learning)
@@ -62,6 +63,8 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [Getting more value from the Pandas’ value_counts()](https://towardsdatascience.com/getting-more-value-from-the-pandas-value-counts-aa17230907a6)
 - [The Dummy’s Guide to Creating Dummy Variables](https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40)
 
+# Dataviz
+- [Dos dados para a visualização, ache os melhores gráficos para os seus dados](http://data-to-viz.com)
 
 # Estatística
 - [What’s the difference between analytics and statistics?](https://towardsdatascience.com/whats-the-difference-between-analytics-and-statistics-cd35d457e17?source=bookmarks---------55-----------------------)
