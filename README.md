@@ -16,6 +16,7 @@ plano de Estudos para Healthdata e Machine Learning
 - [ ] Classificação x predição
 - [ ] Estatística
 - [ ] Workflow de Machine Learning
+- [ ] Aplicação de Machine Learning na saúde
 - [ ] Modelos de Machine Learning
 - [ ] [Interpretabilidade de modelos](https://christophm.github.io/interpretable-ml-book/)
 - [ ] Engenharia de características
@@ -86,7 +87,7 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 4. treinando e testando o modelo
 5. avaliação
 
-# Aplicação de modelos 
+# Aplicação de Machine Learning na saúde 
 ## cancer
 - [Notebook](https://github.com/fabianofilho/medipynb/blob/master/classification/cancer.ipynb)
 - Modelo de predição de cancer a partir de características da célula
