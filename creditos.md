@@ -1,14 +1,10 @@
 # créditos
 
-**Créditos:**
-
 esse plano de estudos foi inspirado em [awesome-machine-learning-portugues](https://github.com/fabianofilho/awesome-machine-learning-portugues).
 
 a diferença é aqui aqui você encontrará conteúdos aplicados a saúde para seus estudos.
 
 _se você gostou deste projeto, por favor me dê uma estrela_ ★ _e ajude a divulgar o material._ ;\)
-
-
 
 [Compartilhe no Twitter](https://twitter.com/intent/tweet?text=Plano%20de%20estudos%20para%20Machine%20Learning%20na%20saude%20https://github.com/fabianofilho/healthdata-machine-learning) 🐦
 
