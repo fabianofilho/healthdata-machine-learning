@@ -1,9 +1,3 @@
----
-description: >-
-  conteúdos de ciência de dados e machine learning aplicado a saúde.
-  http://healthdata.ml
----
-
 # healthdata-machine-learning
 
 ## Tabela de conteúdos
