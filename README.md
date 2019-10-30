@@ -77,8 +77,8 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 1. do Problema à Abordagem
 2. dos Requisitos à Coleção
 3. da Compreensão à Preparação
-4. da Modelagem à avaliação
-5. da Implantação ao feedback
+4. da Modelagem à Avaliação
+5. da Implantação ao Feedback
  
 - [Project Workflow](https://towardsdatascience.com/workflow-of-a-machine-learning-project-ec1dba419b94)
 1. juntando informações
