@@ -39,6 +39,7 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [Inteligência Artificial e Machine Learning aplicados à saúde](https://saudebusiness.com/ti-e-inovacao/inteligencia-artificial-e-machine-learning-aplicados-saude/)
 - [Aplicações de inteligência artificial e machine learning em saúde](https://www.youtube.com/watch?v=y8em7JhKwhU)
 - [Garbage In, Garbage Out (Lixo entra, lixo sai): O aprendizado de máquina automatizado começa com dados de qualidade](https://medium.com/@ODSC/garbage-in-garbage-out-automated-machine-learning-begins-with-quality-data-70471cb33748?source=bookmarks---------4-----------------------)
+- [As principais ferramentas de desenvolvimento em ciência de dados](https://medium.com/pizzadedados/ferramentas-desenvolvimento-ciencia-dados-c54d112871d8)
 
 ## Literatura Científica
 - [Revistas científicas em Healthdata e Machine Learning](https://medium.com/@healthdata/revistas-cient%C3%ADficas-em-healthdata-e-machine-learning-913a36833e2a?source=bookmarks---------38-----------------------)
@@ -53,19 +54,31 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 
 # Data Science e Dataframes/Python
 - [Introdução ao Pandas](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
+- [Data Handling Using Pandas: Cleaning and Processing](https://towardsdatascience.com/data-handling-using-pandas-cleaning-and-processing-3aa657dc9418)
+- [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
+- [Data Manipulation for Machine Learning with Pandas](https://towardsdatascience.com/data-manipulation-for-machine-learning-with-pandas-ab23e79ba5de)
 - [Pandas merge dataframes](https://telegra.ph/pandas-merge-10-28)
 - [Getting more value from the Pandas’ value_counts()](https://towardsdatascience.com/getting-more-value-from-the-pandas-value-counts-aa17230907a6)
 
+
 # Estatística
 - [What’s the difference between analytics and statistics?](https://towardsdatascience.com/whats-the-difference-between-analytics-and-statistics-cd35d457e17?source=bookmarks---------55-----------------------)
+- [Data Scientists Versus Statisticians](https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f)
 - [Guia pragmático de modelagem estatística](https://towardsdatascience.com/statistical-modeling-the-full-pragmatic-guide-7aeb56e38b36)
 - [Dicas para Análise Estatística de qualidade](https://medium.com/playkids-tech-blog/tips-for-a-high-quality-statistical-analysis-430ae4c738be)
-- EDA (Análise de dados exploratória)
-- Correlação
+- [EDA (Análise de dados exploratória)](https://towardsdatascience.com/exploratory-data-analysis-tutorial-in-python-15602b417445)
+- [Correlação](https://medium.com/@sebastiannorena/finding-correlation-between-many-variables-multidimensional-dataset-with-python-5deb3f39ffb3)
 - [Hypothesis tests with Python](https://medium.com/analytics-vidhya/hypothesis-tests-with-python-bfff05955c43)
 - Odds Ratio
 
 # Workflow de Machine Learning
+- [Data Science Metodology](https://medium.com/towards-artificial-intelligence/the-data-science-methodology-50d60175a06a)
+1. do Problema à Abordagem
+2. dos Requisitos à Coleção
+3. da Compreensão à Preparação
+4. da Modelagem à avaliação
+5. da Implantação ao feedback
+ 
 - [Project Workflow](https://towardsdatascience.com/workflow-of-a-machine-learning-project-ec1dba419b94)
 1. juntando informações
 2. pré-processamento de dados
@@ -240,11 +253,10 @@ Understanding the Language of Medicine](https://medium.com/curai-tech/nlp-health
 - [Como Entender Seu Modelo de Machine Learning - Especial Outubro Rosa - (Python/SHAP/Scikit-learn)](https://www.youtube.com/watch?v=J5E4umn8Fb4&t=3s)
 
 # Engenharia de características (_feature engenieering_)
-- Livro
-- Features
-- Instances
+- [Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-1bfab5fe0784)
 
 # Melhoria da performance dos modelos
+- [Otimizando os hiperparâmetros](https://medium.com/data-hackers/otimizando-os-hiperpar%C3%A2metros-621de5e9be37)
 - [Como Tunar Hiperparâmetros de Machine Learning Sem Perder Tempo (Python/Scikit-Optimize)](https://www.youtube.com/watch?v=WhnkeasZNHI)
 
 
