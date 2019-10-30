@@ -60,6 +60,7 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [Data Manipulation for Machine Learning with Pandas](https://towardsdatascience.com/data-manipulation-for-machine-learning-with-pandas-ab23e79ba5de)
 - [Pandas merge dataframes](https://telegra.ph/pandas-merge-10-28)
 - [Getting more value from the Pandas’ value_counts()](https://towardsdatascience.com/getting-more-value-from-the-pandas-value-counts-aa17230907a6)
+- [The Dummy’s Guide to Creating Dummy Variables](https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40)
 
 
 # Estatística
