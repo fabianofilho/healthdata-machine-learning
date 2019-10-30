@@ -12,15 +12,15 @@ plano de Estudos para Healthdata e Machine Learning
   - [ ] Inteligência Artificial e Machine Learning aplicados à saúde
   - [ ] Aplicações de inteligência artificial e machine learning em saúde
   - [ ] Outros Artigos Interessantes
-- [ ] Data Science e Dataframes/Python
-- [ ] Modelos de classificação x regressão x predição(#modelos-de-classificação-x-regressão-x-predição)
-- [ ] Estatística(#estatística)
-- [ ] Workflow de Machine Learning(#workflow-de-machine-learning)
-- [ ] Aplicação de Machine Learning na saúde
-- [ ] Modelos de Machine Learning
+- [ ] [Data Science e Dataframes/Python](#data-science-e-dataframes-/-python)
+- [ ] [Modelos de classificação x regressão x predição](#modelos-de-classificação-x-regressão-x-predição)
+- [ ] [Estatística](#estatística)
+- [ ] [Workflow de Machine Learning](#workflow-de-machine-learning)
+- [ ] [Aplicação de Machine Learning na saúde](#aplicação-de-machine-learning-na-saúde)
+- [ ] [Modelos de Machine Learning](#modelos-de-machine-learning)
 - [ ] [Interpretabilidade de modelos](https://christophm.github.io/interpretable-ml-book/)
-- [ ] Engenharia de características
-- [ ] Melhoria da performance dos modelos
+- [ ] [Engenharia de características](#engenharia-de-características)
+- [ ] [Melhoria da performance dos modelos](#melhoria-da-performance-dos-modelos)
 
 ## O que é?
 um plano de estudo desde a estatística até a aplicação de aprendizado de máquina em bases de dados abertas.
