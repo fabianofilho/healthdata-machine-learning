@@ -1,0 +1,16 @@
+# Table of contents
+
+* [healthdata-machine-learning](README.md)
+* [o que é?](o-que-e.md)
+* [introdução](introducao.md)
+* [dataframes](dataframes.md)
+* [dataviz](dataviz.md)
+* [estatística](estatistica.md)
+* [workflow ML](workflow-ml.md)
+* [hands-on](hands-on.md)
+* [modelos](modelos.md)
+* [interpretar ML](interpretar-ml.md)
+* [features](caracteristicas.md)
+* [performance](performance.md)
+* [créditos](creditos.md)
+
