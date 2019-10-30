@@ -40,7 +40,7 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 - [Aplicações de inteligência artificial e machine learning em saúde](https://www.youtube.com/watch?v=y8em7JhKwhU)
 - [Garbage In, Garbage Out (Lixo entra, lixo sai): O aprendizado de máquina automatizado começa com dados de qualidade](https://medium.com/@ODSC/garbage-in-garbage-out-automated-machine-learning-begins-with-quality-data-70471cb33748?source=bookmarks---------4-----------------------)
 
-## Estudos/Artigos publicados
+## Literatura Científica
 - [Revistas científicas em Healthdata e Machine Learning](https://medium.com/@healthdata/revistas-cient%C3%ADficas-em-healthdata-e-machine-learning-913a36833e2a?source=bookmarks---------38-----------------------)
 - [Machine learning para análises preditivas em saúde: exemplo de aplicação para predizer óbito em idosos de São Paulo, Brasil](http://www.scielo.br/scielo.php?pid=S0102-311X2019000904002&script=sci_arttext)
 
@@ -75,34 +75,28 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 
 # Aplicação de modelos 
 ## cancer
-### variáveis
-- Sexo
+- (Notebook)[https://github.com/fabianofilho/medipynb/blob/master/classification/cancer.ipynb]
+- Modelo de predição de cancer a partir de características da célula
 ### melhor modelo
-- XGboost
+- LDA
 
 ## diabetes
-### variáveis
-- Sexo
-### melhor modelo
-- XGboost
-
-## heart disease
-### variáveis
-- Sexo
+- (Notebook)[https://github.com/fabianofilho/medipynb/blob/master/classification/diabetes.ipynb]]
+- Modelo de predição de diabetes a partir de variáveis clínicas e laboratoriais
 ### melhor modelo
 - XGboost
 
 ## stroke
-### variáveis
-- Sexo
+- (Notebook)[https://github.com/fabianofilho/medipynb/blob/master/classification/stroke.ipynb]
+- Modelo de predição de acidente vascular cerebral a partir de variáveis clínicas e socioeconômicas
 ### melhor modelo
-- XGboost
+- GausianNB
 
 ## kidney 
-### variáveis
-- Sexo
+- (Notebook)[https://github.com/fabianofilho/medipynb/blob/master/classification/renal.ipynb]
+- Modelo de predição de doença renal crônica a partir de variáveis clínicas e laboratoriais.
 ### melhor modelo
-- XGboost
+- LDA, CART, SVM
 
 ------------------------
 
@@ -233,11 +227,9 @@ Understanding the Language of Medicine](https://medium.com/curai-tech/nlp-health
 ### DBSCAN
 - [DBSCAN Python Example: The Optimal Value For Epsilon (EPS)](https://towardsdatascience.com/machine-learning-clustering-dbscan-determine-the-optimal-value-for-epsilon-eps-python-example-3100091cfbc?source=bookmarks---------1-----------------------)
 
-### t-SNE
-?
-
-### OPTIC
-?
+### Outros
+- t-SNE
+- OPTIC
 
 ----------------------
 
@@ -254,8 +246,6 @@ Understanding the Language of Medicine](https://medium.com/curai-tech/nlp-health
 
 # Melhoria da performance dos modelos
 - [Como Tunar Hiperparâmetros de Machine Learning Sem Perder Tempo (Python/Scikit-Optimize)](https://www.youtube.com/watch?v=WhnkeasZNHI)
-- Grid Search
-- Random Search
 
 
 #### Créditos: 
