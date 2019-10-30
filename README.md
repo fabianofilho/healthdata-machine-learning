@@ -97,14 +97,14 @@ temos abaixo uma estrutura de tópicos, e você deve enfrentar os itens em ordem
 ## diabetes
 - [Notebook](https://github.com/fabianofilho/medipynb/blob/master/classification/diabetes.ipynb)
 - Modelo de predição de diabetes a partir de variáveis clínicas e laboratoriais
-### melhor modelo
-- XGboost
+### melhores modelos
+- Logistic Regression, XGboost
 
 ## stroke
 - [Notebook](https://github.com/fabianofilho/medipynb/blob/master/classification/stroke.ipynb)
 - Modelo de predição de acidente vascular cerebral a partir de variáveis clínicas e socioeconômicas
 ### melhor modelo
-- GausianNB
+- XGboost
 
 ## kidney 
 - [Notebook](https://github.com/fabianofilho/medipynb/blob/master/classification/renal.ipynb)
