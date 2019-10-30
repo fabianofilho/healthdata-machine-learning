@@ -1,4 +1,4 @@
-# Table of contents
+# Tabela de conteúdos
 
 * [healthdata-machine-learning](README.md)
 * [o que é?](o-que-e.md)
