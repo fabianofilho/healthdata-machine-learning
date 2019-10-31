@@ -9,6 +9,7 @@
 * [Aplicações de inteligência artificial e machine learning em saúde](https://www.youtube.com/watch?v=y8em7JhKwhU)
 * [Garbage In, Garbage Out \(Lixo entra, lixo sai\): O aprendizado de máquina automatizado começa com dados de qualidade](https://medium.com/@ODSC/garbage-in-garbage-out-automated-machine-learning-begins-with-quality-data-70471cb33748?source=bookmarks---------4-----------------------)
 * [As principais ferramentas de desenvolvimento em ciência de dados](https://medium.com/pizzadedados/ferramentas-desenvolvimento-ciencia-dados-c54d112871d8)
+* [After all what’s new in Data Science?](https://medium.com/swlh/data-science-and-the-data-scientist-db200aac4ea0)
 
 ### Literatura Científica
 
