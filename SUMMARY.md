@@ -13,5 +13,6 @@
 * [interpretar ML](interpretar-ml.md)
 * [features](caracteristicas.md)
 * [performance](performance.md)
+* [deploy](deploy.md)
 * [créditos](creditos.md)
 

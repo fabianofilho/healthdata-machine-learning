@@ -126,7 +126,7 @@
 
 * [Introduction to clinical natural language processing predicting hospital readmission](https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709?source=bookmarks---------58-----------------------)
 * [NLP & Healthcare: Understanding the Language of Medicine](https://medium.com/curai-tech/nlp-healthcare-understanding-the-language-of-medicine-e9917bbf49e7)
-
+* 
 ## Machine learning não-supervisionado
 
 ### Redução de Dimensionalidade
