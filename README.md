@@ -19,6 +19,7 @@ description: inteligência de dados na saúde
   * Tipos de aprendizagem
   * Inteligência Artificial e Machine Learning aplicados à saúde
   * Aplicações de inteligência artificial e machine learning em saúde
+  * Hierarquia das Evidências na saúde
   * Outros Artigos Interessantes
 * [ Data Science e Dataframes/Python](https://fabianofilho.gitbook.io/healthdata/dataframes)
 * [ Dataviz Visualização de Dados ](https://fabianofilho.gitbook.io/healthdata/dataviz)
