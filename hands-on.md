@@ -1,6 +1,10 @@
+---
+description: Aplicação de Machine Learning na saúde
+---
+
 # hands-on
 
-## Aplicação de Machine Learning na saúde
+## Classificação
 
 ### cancer
 
@@ -41,4 +45,12 @@
 #### melhor modelo
 
 * LDA, CART, SVM
+
+## Regressão
+
+### Seguro saúde
+
+* Notebook
+* Modelo
+* Dataset
 
