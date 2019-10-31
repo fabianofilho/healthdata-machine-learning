@@ -9,4 +9,5 @@
 * [Pandas merge dataframes](https://telegra.ph/pandas-merge-10-28)
 * [Getting more value from the Pandas’ value\_counts\(\)](https://towardsdatascience.com/getting-more-value-from-the-pandas-value-counts-aa17230907a6)
 * [The Dummy’s Guide to Creating Dummy Variables](https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40)
+* [10 bibliotecas de python para Data Science que ninguém te conta](https://medium.com/data-hackers/mais-10-bibliotecas-de-data-science-para-python-que-ningu%C3%A9m-te-conta-1a636837a404?source=bookmarks---------36-----------------------) 
 
