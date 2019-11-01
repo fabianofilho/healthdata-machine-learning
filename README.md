@@ -20,8 +20,9 @@ description: inteligência de dados na saúde
   * Inteligência Artificial e Machine Learning aplicados à saúde
   * Aplicações de inteligência artificial e machine learning em saúde
   * Hierarquia das Evidências na saúde
-  * Outros Artigos Interessantes
-* [ Data Science e Dataframes/Python](https://fabianofilho.gitbook.io/healthdata/dataframes)
+  * Outros Artigos Interessantes 
+* [ Datasets disponíveis para análises](http://fabianofilho.gitbook.io/healthdata/datasets)
+* [ Data Science e Dataframes/Python](http://fabianofilho.gitbook.io/healthdata/dataframes)
 * [ Dataviz Visualização de Dados ](https://fabianofilho.gitbook.io/healthdata/dataviz)
 * [ Estatística](https://fabianofilho.gitbook.io/healthdata/estatistica)
 * [ Workflow de Machine Learning](https://fabianofilho.gitbook.io/healthdata/workflow-ml)
