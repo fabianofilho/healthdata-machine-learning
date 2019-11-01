@@ -2,8 +2,8 @@
 
 ## Kaggle
 
-* [Primeiros passos com Kaggle: Participando da sua primeira competição](https://medium.com/@lucasoliveiras/primeiros-passos-com-kaggle-3871997b0868)
 * [Dados e Pipelines de Machine Learning em HealthData ](https://medium.com/@healthdata/dados-e-pipelines-de-machine-learning-em-healthdata-dd9bdeb8e439)
+* [Primeiros passos com Kaggle: Participando da sua primeira competição](https://medium.com/@lucasoliveiras/primeiros-passos-com-kaggle-3871997b0868)
 
 ## SUS
 
