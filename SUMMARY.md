@@ -4,6 +4,7 @@
 * [o que é?](o-que-e.md)
 * [introdução](introducao.md)
 * [dataframes](dataframes.md)
+* [datasets](datasets.md)
 * [dataviz](dataviz.md)
 * [estatística](estatistica.md)
 * [workflow ML](workflow-ml.md)
@@ -15,5 +16,4 @@
 * [performance](performance.md)
 * [deploy](deploy.md)
 * [créditos](creditos.md)
-* [datasets](datasets.md)
 
