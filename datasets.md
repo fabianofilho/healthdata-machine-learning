@@ -12,5 +12,10 @@
 * [DATASUS: Conheça a nova ferramenta para ler arquivos .dbc em R](https://sadtec.wordpress.com/2016/05/23/datasus-conheca-a-nova-ferramenta-para-ler-arquivos-dbc/)
 * [Pysus](https://github.com/AlertaDengue/PySUS/tree/master/pysus) 
 
+## Internacionais
+
+* [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/index.php)
+* [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data/blob/master/README.md)
+
 
 

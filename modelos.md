@@ -2,6 +2,8 @@
 
 ## Machine learning supervisionado
 
+[Cheat sheet](https://docs.google.com/spreadsheets/d/1dhsXcdVIvyhmxIZWj5SO-ZK9ZDnCZcO8XGwWUUFiCDI/edit?usp=sharing)
+
 ### Classificação
 
 #### árvores de decisão \(_decision trees_\)

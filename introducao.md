@@ -17,3 +17,7 @@
 * [Revistas científicas em Healthdata e Machine Learning](https://medium.com/@healthdata/revistas-cient%C3%ADficas-em-healthdata-e-machine-learning-913a36833e2a?source=bookmarks---------38-----------------------)
 * [Machine learning para análises preditivas em saúde: exemplo de aplicação para predizer óbito em idosos de São Paulo, Brasil](http://www.scielo.br/scielo.php?pid=S0102-311X2019000904002&script=sci_arttext)
 
+### Ferramentas disponíveis
+
+* [Healthcare.ai](https://healthcare.ai/)
+
