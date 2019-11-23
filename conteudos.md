@@ -23,6 +23,5 @@
 * [ Interpretabilidade de modelos](https://fabianofilho.gitbook.io/healthdata/interpretar-ml)
 * [ Engenharia de características \(features\)](https://fabianofilho.gitbook.io/healthdata/features)
 * [ Melhoria da performance dos modelos](https://fabianofilho.gitbook.io/healthdata/performance)
-
-### [Créditos](https://fabianofilho.gitbook.io/healthdata/creditos)
+*  [Créditos](https://fabianofilho.gitbook.io/healthdata/creditos)
 
