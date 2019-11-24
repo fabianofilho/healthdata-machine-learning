@@ -1,10 +1,13 @@
 # Table of contents
 
 * [healthdata-machine-learning](README.md)
-* [conteúdos](conteudos.md)
-* [introdução](introducao.md)
-* [o que é?](o-que-e.md)
-* [datasets](datasets.md)
+* [tópicos](conteudos.md)
+* [contribua](contribua.md)
+
+## intro
+
+* [introdução](intro/introducao.md)
+* [datasets](intro/datasets.md)
 
 ## pipeline
 
