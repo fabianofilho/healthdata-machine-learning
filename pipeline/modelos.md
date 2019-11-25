@@ -2,18 +2,19 @@
 
 ## Machine learning supervisionado
 
-[Cheat sheet](https://docs.google.com/spreadsheets/d/1dhsXcdVIvyhmxIZWj5SO-ZK9ZDnCZcO8XGwWUUFiCDI/edit?usp=sharing)
+* [Cheat sheet](https://docs.google.com/spreadsheets/d/1dhsXcdVIvyhmxIZWj5SO-ZK9ZDnCZcO8XGwWUUFiCDI/edit?usp=sharing)
+* [Gráfico interativo. ](https://www.thelearningmachine.ai/ml)
 
 ### Classificação
 
-#### árvores de decisão \(_decision trees_\)
+#### DT - árvores de decisão \(_decision trees_\)
 
 * [Árvores de Decisão](https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69)
 * [ÁRVORE DE DECISÃO. EXEMPLO COMPLETO](https://www.youtube.com/watch?v=_ICNdRrl68k)
 * [Um tutorial completo sobre modelagem baseada em árvores de decisão \(códigos R e Python\)](https://www.vooo.pro/insights/um-tutorial-completo-sobre-a-modelagem-baseada-em-tree-arvore-do-zero-em-r-python/)
 * [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Decision%20Trees.ipynb)
 
-#### árvores aleatórias \(_random forest_\)
+#### RF - árvores aleatórias \(_random forest_\)
 
 * [Random Forest From Scratch](https://machinelearningmastery.com/implement-random-forest-scratch-python/)
 * [Random Forest in Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
@@ -25,12 +26,12 @@
 * [Você sobreviveria no Titanic? Um exemplo de Regressão Logística](http://www.abgconsultoria.com.br/blog/voce-sobreviveria-no-titanic-um-exemplo-de-regressao-logistica/)
 * [Regressão Logística na Eleição](https://medium.com/@silviocesar_75950/regress%C3%A3o-log%C3%ADstica-na-elei%C3%A7%C3%A3o-3d8011469712)
 
-#### adaboost
+#### AB - AdaBoost
 
 * [Estudo do algoritmo adaboost de aprendizagem de máquina aplicado a sensores e sistemas embarcados](http://www.teses.usp.br/teses/disponiveis/3/3152/tde-12062012-163740/pt-br.php)
 * [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Adaboost.ipynb)
 
-#### xgboost
+#### XGB - XGBoost
 
 * [Exploring XGBoost](https://towardsdatascience.com/exploring-xgboost-4baf9ace0cf6)
 * [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
@@ -44,7 +45,7 @@
 * [Machine Learning em Português \(Aula 15\) - K-Nearest Neighbors \(Regressão - Parte 2\)](https://www.youtube.com/watch?v=Cz6NCHSY0Z0)
 * [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/KNN.ipynb)
 
-#### naive bayes
+#### NB - naive bayes
 
 * [Teorema de Bayes](https://www.youtube.com/watch?v=9OOZf4klOeM)
 * [Teorema de Bayes - Aula 1: Características \(Probabilidade a Priori, Condicional e Conjunta\)](https://www.youtube.com/watch?v=78R1yNVGnSk&t=244s)
@@ -152,6 +153,7 @@
 ### Clustering
 
 * [Unsupervised Machine Learning: Clustering Analysis](https://towardsdatascience.com/unsupervised-machine-learning-clustering-analysis-d40f2b34ae7e)
+* [Comparing Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html)
 
 #### k-Médias \(_K-Means_\)
 
