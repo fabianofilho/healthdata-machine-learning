@@ -66,6 +66,11 @@
 * [Máquina de Vetores de Suporte - SVM](https://www.youtube.com/watch?v=4Zh7UeHqHvc)
 * [SVM - Support Vector Machine Linear, Não Linear - Teoria](https://www.youtube.com/watch?v=cB__Oa85htg)
 
+#### A priori
+
+* [A priori in python](https://medium.com/@fabio.italiano/the-apriori-algorithm-in-python-expanding-thors-fan-base-501950d55be9)\*\*\*\*
+* [Apriori Algorithm Explained \| Association Rule Mining \| Finding Frequent Itemset \| ](https://www.youtube.com/watch?v=guVvtZ7ZClw)
+
 ### Regressão
 
 #### LM - regressão linear
