@@ -8,6 +8,7 @@
 
 * [introdução](intro/introducao.md)
 * [datasets](intro/datasets.md)
+* [dicas](intro/dicas.md)
 
 ## pipeline
 
