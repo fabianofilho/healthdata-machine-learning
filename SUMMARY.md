@@ -20,10 +20,10 @@
 * [métricas](pipeline/metricas.md)
 * [hands-on](pipeline/hands-on.md)
 * [features](pipeline/caracteristicas.md)
+* [imbalanced](pipeline/imbalanced.md)
 * [interpretar ML](pipeline/interpretar-ml.md)
 * [performance](pipeline/performance.md)
 * [deploy](pipeline/deploy.md)
-* [imbalanced](pipeline/imbalanced.md)
 
 ## creditos <a id="creditos-1"></a>
 
