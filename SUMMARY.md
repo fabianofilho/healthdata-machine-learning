@@ -21,7 +21,7 @@
 * [hands-on](pipeline/hands-on.md)
 * [features](pipeline/caracteristicas.md)
 * [imbalanced](pipeline/imbalanced.md)
-* [interpretar ML](pipeline/interpretar-ml.md)
+* [interpretML](pipeline/interpretml.md)
 * [performance](pipeline/performance.md)
 * [deploy](pipeline/deploy.md)
 

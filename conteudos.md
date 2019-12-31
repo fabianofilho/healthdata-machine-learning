@@ -20,7 +20,7 @@
 * [ Workflow de Machine Learning](https://fabianofilho.gitbook.io/healthdata/workflow-ml)
 * [ Aplicação de Machine Learning na saúde](https://fabianofilho.gitbook.io/healthdata/hands-on)
 * [ Modelos de Machine Learning](https://fabianofilho.gitbook.io/healthdata/modelos)
-* [ Interpretabilidade de modelos](https://fabianofilho.gitbook.io/healthdata/interpretar-ml)
+* [ Interpretabilidade de modelos](https://fabianofilho.gitbook.io/healthdata/interpretml)
 * [ Engenharia de características \(features\)](https://fabianofilho.gitbook.io/healthdata/features)
 * [ Melhoria da performance dos modelos](https://fabianofilho.gitbook.io/healthdata/performance)
 *  [Créditos](https://fabianofilho.gitbook.io/healthdata/creditos)

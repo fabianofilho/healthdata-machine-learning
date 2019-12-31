@@ -1,4 +1,4 @@
-# interpretar ML
+# interpretML
 
 ## Interpretabilidade de modelos
 
