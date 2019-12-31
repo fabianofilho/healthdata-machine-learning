@@ -23,6 +23,7 @@
 * [interpretar ML](pipeline/interpretar-ml.md)
 * [performance](pipeline/performance.md)
 * [deploy](pipeline/deploy.md)
+* [imbalanced](pipeline/imbalanced.md)
 
 ## creditos <a id="creditos-1"></a>
 
